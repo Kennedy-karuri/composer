@@ -1,0 +1,18 @@
+{
+    "name": "ken/tutorial",
+    "description": "This is a custom plugin with composer",
+    "type": "project",
+    "license": "GPL v2 or later",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kennedy"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
